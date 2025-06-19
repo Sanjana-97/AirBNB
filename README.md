@@ -20,7 +20,8 @@ A complete end-to-end data analysis and visualization project on Airbnb listings
 ### 1. **Overview Dashboard**
 A one-screen summary of listings, hosts, price, and property/room distribution across cities.
 
-<img width="1440" alt="Screenshot 2025-06-19 at 4 13 52 PM" src="https://github.com/user-attachments/assets/20f5e0b5-a9c7-4837-8fee-b71355fe8a98" />
+<img width="1440" alt="Screenshot 2025-06-19 at 8 03 12 PM" src="https://github.com/user-attachments/assets/089cf9d3-5043-41b9-8360-e98e74062c4a" />
+
 
 
 ---
@@ -28,7 +29,8 @@ A one-screen summary of listings, hosts, price, and property/room distribution a
 ### 2. **Property, Price & Performance**
 Focuses on pricing structure, room types, guest satisfaction, and engagement.
 
-<img width="1440" alt="Screenshot 2025-06-19 at 4 14 02 PM" src="https://github.com/user-attachments/assets/512dbdcc-6627-4ca8-8803-239b4d0841b7" />
+<img width="1440" alt="Screenshot 2025-06-19 at 8 03 36 PM" src="https://github.com/user-attachments/assets/91ec55d2-0ced-40fd-9b4f-9c0833a4f2ec" />
+
 
 
 ---
@@ -36,7 +38,8 @@ Focuses on pricing structure, room types, guest satisfaction, and engagement.
 ### 3. **Host & Supply Insights**
 Reveals how top hosts operate, including volume and pricing strategy.
 
-<img width="1440" alt="Screenshot 2025-06-19 at 4 14 10 PM" src="https://github.com/user-attachments/assets/7a00431f-e359-40bc-a6dc-790a80d97156" />
+<img width="1440" alt="Screenshot 2025-06-19 at 8 07 53 PM" src="https://github.com/user-attachments/assets/20cc9206-639e-49e8-9cf2-6f989540738f" />
+
 
 
 ---
@@ -72,4 +75,4 @@ Reveals how top hosts operate, including volume and pricing strategy.
 Prepared by **Sanjana Kumari (Business Analyst)**  
 Feel free to connect on www.linkedin.com/in/sanjana-kumari-379857167 or reach out to collaborate.
 
----# AirBNB
+---
